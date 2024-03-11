@@ -1,0 +1,2 @@
+Von Neuman Moddel is the modern design for computers. 
+The computer subsystems are the CPU, Main Memory and I/0. 

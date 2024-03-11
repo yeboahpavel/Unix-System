@@ -1,0 +1,5 @@
+1. ls - List all files. 
+2. pwd - display current working directory. 
+3. mv - move a directory. 
+4. cp - copy a directory. 
+5. rm - delete file.  
